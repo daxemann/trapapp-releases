@@ -48,9 +48,20 @@ Ako datoteku **TrapApp-win-Setup.exe** kopirate na USB stick i pokrenete je s nj
 
 1. Preuzmite odgovarajuću **.zip** datoteku (tablica gore) i dvaput kliknite na nju → pojavi se **TrapApp**.
 2. Povucite **TrapApp** u mapu **Aplikacije / Programi**.
-3. Prvo pokretanje: macOS ga blokira (program nije iz App Storea) → kliknite **„Gotovo“**.
-4. Jabuka → **Postavke sustava → Privatnost i sigurnost** → dolje **„Svejedno otvori“** *(njem. „Dennoch öffnen“)* → lozinka Maca.
-5. Samo jednom – poslije se TrapApp otvara normalno.
+3. **Prvo pokretanje (samo jednom)** – macOS ga blokira jer program nije iz App Storea. To je normalno.
+
+*Slike su s njemačkog macOS-a – na hrvatskom ili engleskom gumbi su na istom mjestu.*
+
+| | |
+|---|---|
+| **1.** Dvaput kliknite na TrapApp → kliknite **„Gotovo“** *(Fertig / Done)* – ne „Premjesti u smeće“. | <img src="docs/mac/1-gotovo.png" width="260"> |
+| **2.** Jabuka → **Postavke sustava → Privatnost i sigurnost** *(Datenschutz & Sicherheit / Privacy & Security)*. | <img src="docs/mac/2-privatnost.png" width="300"> |
+| **3.** Dolje kod „Sigurnost“: „TrapApp je blokiran …“ → **„Svejedno otvori“** *(Dennoch öffnen / Open Anyway)*. | <img src="docs/mac/3-svejedno-otvori.png" width="420"> |
+| **4.** Pitanje „Otvoriti TrapApp?“ → ponovno **„Svejedno otvori“**. | <img src="docs/mac/4-svejedno-otvori.png" width="260"> |
+| **5.** Lozinka Maca → **OK**. | <img src="docs/mac/5-lozinka.png" width="260"> |
+| **6.** TrapApp se pokrene – od sada normalno dvostrukim klikom. | <img src="docs/mac/6-trapapp.png" width="420"> |
+
+> ℹ️ „Svejedno otvori“ vrijedi **samo za TrapApp** – zaštita Maca za sve ostale programe ostaje uključena, ništa ne treba vraćati. S USB sticka se poruka najčešće uopće ne pojavi.
 
 Detaljno s objašnjenjima: **[Prvo-pokretanje-na-Macu.pdf](https://github.com/daxemann/trapapp-releases/releases/download/mac-0.3.2-test/Prvo-pokretanje-na-Macu.pdf)**
 
